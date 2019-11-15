@@ -1,0 +1,19 @@
+{
+    "name": "yijia/think-attachment",
+    "require": {
+        "topthink/framework": "v5.0.24",
+        "topthink/think-captcha": "v1.0.8"
+    },
+    "license": "Apache2.0",
+    "authors": [
+        {
+            "name": "Dreamjoy",
+            "email": "592101489@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "think\\attachment\\": "src/"
+        }
+    }
+}
