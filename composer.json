@@ -1,7 +1,7 @@
 {
     "name": "yijia/think-attachment",
     "require": {
-        "topthink/framework": "v5.0.24",
+        "topthink/framework": "v5.0.25",
         "topthink/think-captcha": "v1.0.8"
     },
     "license": "Apache-2.0",
